@@ -1,0 +1,12 @@
+.searchBar{
+    display: inline-flex;
+    padding-right: 2rem;
+}
+.searchBar .standardText{
+    margin-top:1.625rem;
+    margin-right: 0.625rem;
+}
+
+.searchBar .inputBox{
+    margin-top:0.625rem;
+}

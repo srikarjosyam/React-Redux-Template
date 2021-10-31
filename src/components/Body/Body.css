@@ -1,0 +1,12 @@
+.TableHeaders{
+    margin-left: 1.0625rem;
+    margin-top: 1.0625rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.DataTable{
+    margin-top: 1.0625rem;
+    margin-left: 1.0625rem;
+    max-width: 50.536rem;
+    
+}

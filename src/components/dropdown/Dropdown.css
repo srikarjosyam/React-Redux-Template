@@ -1,0 +1,11 @@
+.dropdown{
+    display: inline-flex;    
+}
+.dropdown .standardText{
+    margin-top:1.625rem;
+    margin-right: 0.625rem;
+}
+.dropdown .dropdownInput{
+    margin-top:0.625rem;
+    font-size: large;
+}
